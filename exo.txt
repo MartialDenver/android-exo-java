@@ -1,0 +1,7 @@
+L’ensemble d’un aéroport est toujours constitué de plusieurs avions, d’une équipe de mécaniciens intervenant 
+sur plusieurs types d’avions et un ensemble de pistes éclairées tout le temps. Cette équipe de mécaniciens doit 
+être opérationnelle sur trois types d’avions que sont : Airbus A320, Boeing 747 et concorde. 
+Les avions sont identifiés dans l’aéroport par leur modèle, le fabricant, la compagnie propriétaire et leur numéro de vol. 
+L’aéroport est représenté par un numéro, ville, pays et coordonner GPS. Quant aux mécaniciens, ils sont identifiables par 
+un numéro id, nom et type d’avion sur lequel ils interviennent. Chaque piste est dotée d’un numéro et d’une couleur d’éclairage 
+permettant de déterminer le type de piste (piste d’atterrissage ou piste de décollage).
